@@ -1,4 +1,4 @@
 #! /bin/bash
 
 
-echo "heoks test"
+echo "webhook test"
