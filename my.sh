@@ -1,4 +1,5 @@
 #!/bin/bash
+#
 pwd=root
 my="mysql -u root -p -e 'show databases;'"
 /usr/bin/expect <<EOD
